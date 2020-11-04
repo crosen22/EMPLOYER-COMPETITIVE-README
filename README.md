@@ -1,7 +1,7 @@
 # Employer-Competivive-GitHub
 Fill out your Profile Section to include the following:
 
-Full Name, Title (Web Developer, Data Analyst, etc.),Include a profile picture, City, State, Email, Link to LinkedIn or Portfolio
+Full Name, Title (Web Developer, Data Analyst, etc.),Profile Picture, City, State, Email, Link to LinkedIn or Portfolio
 
 Pin your best projects for employers to see.
 
