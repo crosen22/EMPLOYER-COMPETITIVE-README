@@ -5,7 +5,7 @@ Full Name, Title (Web Developer, Data Analyst, etc.),Profile Picture, City, Stat
 
 Pin your best projects for employers to see.
 
-Provide an overview of each pinned project.
+Provide an overview of each pinned project in the About section in your Readme so that it will populate on your main profile page.
 
 Each project should have at least 20 commits.
 
