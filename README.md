@@ -11,4 +11,4 @@ Each project should have at least 20 commits.
 
 Each project should include a strong Readme.
 
-# Example: https://github.com/Bhelms2132
+Example: https://github.com/Bhelms2132
