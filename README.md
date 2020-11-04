@@ -10,3 +10,5 @@ Provide an overview of each pinned project in the About section in your Readme s
 Each project should have at least 20 commits.
 
 Each project should include a strong Readme.
+
+# Example: https://github.com/Bhelms2132
